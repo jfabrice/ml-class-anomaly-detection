@@ -10,3 +10,18 @@ This repository contains course materials for my Machine Learning class on the t
 An application exercise is also available:
 - <em>anomaly_detection_exercise.pdf</em> : instructions for the exercise
 - <em>data/dataset.csv</em> : the dataset to be used to answer the questions
+
+### Setting up Anaconda environment
+
+To setup the Anaconda environment with required dependencies, execute the following instructions in Anaconda prompt or Linux shell.
+
+```shell
+# Create a new virtual environment
+conda create -n anomalydetectionenv python==3.7
+
+# Activate the environment
+source activate anomalydetectionenv
+
+# Install the requirements
+pip install -r requirements.txt
+```
