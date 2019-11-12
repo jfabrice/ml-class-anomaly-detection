@@ -16,6 +16,12 @@ An application exercise is also available:
 To setup the Anaconda environment with required dependencies, execute the following instructions in Anaconda prompt or Linux shell.
 
 ```shell
+# Clone this github repository on your machine
+git clone https://github.com/jfabrice/ml-class-anomaly-detection.git
+
+# Change working directory inside the repo
+cd ml-class-anomaly-detection
+
 # Create a new virtual environment
 conda create -n anomalydetectionenv python==3.7
 
