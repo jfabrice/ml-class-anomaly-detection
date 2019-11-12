@@ -20,7 +20,10 @@ To setup the Anaconda environment with required dependencies, execute the follow
 conda create -n anomalydetectionenv python==3.7
 
 # Activate the environment
+## For Linux
 source activate anomalydetectionenv
+## For Windows
+activate anomalydetectionenv
 
 # Install the requirements
 pip install -r requirements.txt
