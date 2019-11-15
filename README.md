@@ -26,7 +26,7 @@ cd ml-class-anomaly-detection
 conda create -n anomalydetectionenv python==3.7
 
 # Activate the environment
-## For Linux
+## For Linux / MAC
 source activate anomalydetectionenv
 ## For Windows
 activate anomalydetectionenv
