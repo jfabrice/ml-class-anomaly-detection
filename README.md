@@ -11,7 +11,13 @@ An application exercise is also available:
 - <em>anomaly_detection_exercise.pdf</em> : instructions for the exercise
 - <em>data/dataset.csv</em> : the dataset to be used to answer the questions
 
-### Setting up Anaconda environment
+
+### Option 1: Working with Google Colab
+
+To follow the notebooks with Google Colab, simply go to https://colab.research.google.com/. Import a new notebook from GitHub, search for "jfabrice" and open one of the notebooks of this class (ml-class-anomaly-detection). The first section of the notebook is there to initialize the environment from Google Colab.
+
+
+### Option 2: Working locally - Setting up Anaconda environment
 
 To setup the Anaconda environment with required dependencies, execute the following instructions in Anaconda prompt or Linux shell.
 
